@@ -25,6 +25,6 @@ The analysis of the employee data shows that:
 ## Summary
 
 - The results of my analysis show that Pewlett Hackard will need to fill up to 72,458 roles as the retirement-age employees begin to exit the workforce.
-- Approximately 2% of the current, retirement-age employees are eligible for the mentorship program.
+- The number of eligible mentors is equivalent to approximately 2% of the number of retirement-age employees.
 - In the Retirement Titles table, I would add the hire date column from the Employee table and add a filter with a range of hire dates to provide more insight into the number of employees who are eligible for retirement.
 - I would create an additional table similar to the Mentorship Eligibility table to find the number of current employees who are eligible mentees. I would reuse the Mentorship Eligibility query and edit the birthdate range. I would also add a filter to the from_date column to include employees with a specified tenure. Then you could determine the number of eligible mentors by title and the number of eligible mentees by title. This data would provide insight into whether there are enough mentors to help develop the next generation of Pewlett Hackard employees.
